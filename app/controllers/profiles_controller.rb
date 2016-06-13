@@ -16,6 +16,11 @@ class ProfilesController < ApplicationController
         end
     end
     
+    def edit
+        @user = User.find( params[:user_id] )
+        @profile = @user.profile
+    end
+    
     private
         def profile_params #this whitelists the parameters pulled from our public page (for security)
             params.require(:profile).permit(:first_name, :last_name, :job_title, :phone_number, :contact_email, :description)
