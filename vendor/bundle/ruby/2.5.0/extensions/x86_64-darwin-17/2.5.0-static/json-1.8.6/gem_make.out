@@ -1,0 +1,13 @@
+current directory: /Users/benpaysen/Workspace/Rails_applications/DevMatch/Saas_Meeting_site/vendor/bundle/ruby/2.5.0/gems/json-1.8.6/ext/json
+/Users/benpaysen/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20190115-48545-oi5zgt.rb extconf.rb
+creating Makefile
+
+current directory: /Users/benpaysen/Workspace/Rails_applications/DevMatch/Saas_Meeting_site/vendor/bundle/ruby/2.5.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/benpaysen/Workspace/Rails_applications/DevMatch/Saas_Meeting_site/vendor/bundle/ruby/2.5.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/benpaysen/Workspace/Rails_applications/DevMatch/Saas_Meeting_site/vendor/bundle/ruby/2.5.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
