@@ -2,13 +2,11 @@
 
 A membership site where entrepreneurs can meet developers.
 
-Basic Membership is free and gets access to the community.
+Basic Membership is free to sign up and gets access to the community.
 
-Pro Membership has a fee and gets access to the community and contact information.
+Pro Membership gains access to the community and members full profile information.
 
-* Ruby version
-
-* System dependencies
+RoR built
 
 
 
