@@ -1,6 +1,6 @@
 == README
 
-# **IndustryAlist**
+*IndustryAlist*
 
 A membership site where entrepreneurs can meet developers.
 This platform combines the building of community and personal growth while providing a space for opportunity and connection from an _A_ list of industry professionals.
