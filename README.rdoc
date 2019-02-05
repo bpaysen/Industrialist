@@ -1,29 +1,11 @@
 == README
 
-Coder Manual Project Application
-Subscription-based web application
-http://codermanual.com
+# **IndustryAlist**
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+A membership site where entrepreneurs can meet developers.
+This platform combines the building of community and personal growth while providing a space for opportunity and connection from an "A" list of industry professionals.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Basic Membership is free to sign up and gets access to the community.
+Pro membership is a small fee and gains access to peer contact info.
+
