@@ -3,7 +3,7 @@
 # **IndustryAlist**
 
 A membership site where entrepreneurs can meet developers.
-This platform combines the building of community and personal growth while providing a space for opportunity and connection from an "A" list of industry professionals.
+This platform combines the building of community and personal growth while providing a space for opportunity and connection from an _A_ list of industry professionals.
 
 
 Basic Membership is free to sign up and gets access to the community.
