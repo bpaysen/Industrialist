@@ -3,4 +3,3 @@ static/* linguist-vendored
 *.rb diff=ruby
 *.gemspec diff=ruby
 
-* text=auto
